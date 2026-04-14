@@ -53,16 +53,6 @@ Install required libraries:
 pip install pymupdf pandas openpyxl
 ```
 
----
-
-## ▶️ How to Run
-
-```bash
-python main.py
-```
-
----
-
 ## 🧪 Workflow
 
 1. Load CMDB Excel file
@@ -104,7 +94,7 @@ SW-01 -> [OK] Found at Row 3
 
 ## 🤖 Development Note
 
-This project was **developed with the assistance of AI tools (ChatGPT)** to accelerate development, improve code quality, and explore GRC automation concepts.
+This project was **developed with the assistance of AI tools ** to accelerate development, improve code quality, and explore GRC automation concepts.
 All logic, customization, and use-case implementation were guided and adapted for real-world scenarios.
 
 ---
